@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "api for rock paper scissors",
   "main": "server.js",
+  "type": "module",
   "directories": {
     "lib": "lib"
   },
