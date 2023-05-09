@@ -12,7 +12,7 @@ app.use(json());
 app.use(urlencoded({ extended: true}));
 
 app.get('/app', (req, res) => {
-	res.status(200).send("200 OK");
+	res.status(200).send("200 OK")
 })
 
 app.get('/app/rps', (req, res) => {
