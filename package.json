@@ -1,0 +1,22 @@
+{
+  "name": "a04-frchase",
+  "version": "1.0.0",
+  "description": "api for rock paper scissors",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-frchase.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "frchase",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-frchase/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-frchase#readme"
+}
